@@ -20,53 +20,52 @@ I start by preparing "object points", which will be the (x, y, z) coordinates of
 I then used the output `objpoints` and `imgpoints` to compute the camera calibration and distortion coefficients using the `cv2.calibrateCamera()` function.  I applied this distortion correction to the test image using the `cv2.undistort()` function. This can be found in cell #4 of Pipeline_Buildup_On_Test_Image.ipynb
 
 ### Pipeline (single images)
+**The pipeline has been tested on each test image in the test folder. The output can be found in cell #10 of the notebook Running_Pipeline_Run2.ipynb**
 
 #### 1. Provide an example of a distortion-corrected image.
 
-Please refer to cell #5 of Pipeline_Buildup_On_Test_Image.ipynb for an example from the test images
+Please refer to cell #5 of Initial_Analysis_With_Test_Images_Run2.ipynb for an example from the test images
 
 #### 2. Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
 
-I first started with a Perspective transform (see cell #6 of Pipeline_Buildup_On_Test_Image.ipynb). Next I used a two step process to get a final binary image :
+Refer to cell #6 to #8 of Initial_Analysis_With_Test_Images_Run2.ipynb
 
-1. Since our lanes are white and yellow in color, I first applied a color transform to extract only the yellow and white lane lines (see cell #7-#9 of Pipeline_Buildup_On_Test_Image.ipynb)
-
-2. I then combined this with sobel transformations on saturation space (see cell #11 of Pipeline_Buildup_On_Test_Image.ipynb)
-
-I then combined the output of the two steps to get a combined binary image (see cell #12-#13 of Pipeline_Buildup_On_Test_Image.ipynb)
-
+I applied a sobel transform for gradient in x an y direction, followed by thresholding magnitude and direction. This was finally followed by color thresholding, which was applied by looking at the saturation aspect (converting the image first to HSL color space). Finally, I applied a mask to get a smaller region of interest, so that all the noise outside that region was eliminated.
 
 #### 3. Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
 
-The source and destination points, where the src points describe a polygon in the original image which will be transformed to a polygon in the dst points. I hardcoded the values and used :
- (see cell #6 of Pipeline_Buildup_On_Test_Image.ipynb)
+Refer to cell #9 of Initial_Analysis_With_Test_Images_Run2.ipynb
+
+The source and destination points, where the src points describe a polygon in the original image which will be transformed to a polygon in the dst points.
+
+The hardcoded points were -
 
 ```python
-src = np.float32([[220,719],[1130,719],[755,477],[580,478]])
+src = np.float32([[255, 690], [550, 475], [759, 475], [1135, 690]])
 # define 4 destination points for perspective transformation
-dst = np.float32([[240,719],[1040,719],[1040,300],[240,300]])
+dst = np.float32([[310, img_shape[1]], [310, 0], [950, 0], [950, img_shape[1]]])
 ```
 
 I verified that my perspective transform was working as expected by drawing the `src` and `dst` points onto a test image and its warped counterpart to verify that the lines appear parallel in the warped image.
 
 #### 4. Describe how (and identify where in your code) you identified lane-line pixels and fit their positions with a polynomial?
 
-For fitting a polynomial to the perspective transformed and thresholded image we use a sliding histogram approach. We start at the maximum peaks in the bottom half of the imageand move our way up. We then subsequently search for the line with the same approach and finally fit a polynomial (see #16-#19 of Pipeline_Buildup_On_Test_Image.ipynb)
+For fitting a polynomial to the perspective transformed and thresholded image we use a sliding histogram approach. We start at the maximum peaks in the bottom half of the imageand move our way up. We then subsequently search for the line with the same approach and finally fit a polynomial (see #13-#16 of Initial_Analysis_With_Test_Images_Run2.ipynb)
 
 #### 5. Describe how (and identify where in your code) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.
 
-I did this in lines #20-#21 of Pipeline_Buildup_On_Test_Image.ipynb
+I did this in lines #17 and #18 of Initial_Analysis_With_Test_Images_Run2.ipynb
 
 #### 6. Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 
-Please refer to line #22-#24
+Please refer to line #19-#21
 ---
 
 ### Pipeline (video)
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-This is part of the zip file I attached and was run in a separate notebook - Running_Pipeline_On_Video.ipynb.ipynb
+This is part of the zip file I attached and was run in a separate notebook - Running_Pipeline_Run2.ipynb
 
 ---
 
