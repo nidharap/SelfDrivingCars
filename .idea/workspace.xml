@@ -1,359 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0009f602-ec46-4f2f-a11b-a4e535249b51" name="Default" comment="redoing commit and push">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_22_59_623.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_03_473.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_03_747.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_05_348.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_06_507.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_07_558.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_07_700.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_09_025.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_09_298.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_11_217.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_11_562.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_14_135.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_15_326.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_16_577.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_17_062.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_18_518.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_21_296.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_22_620.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_26_229.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_26_298.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_27_691.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_28_039.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_29_347.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_30_731.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_32_126.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_33_038.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_33_108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_35_807.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_36_639.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_39_340.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_39_618.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_39_687.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_41_749.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_42_025.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_42_853.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_44_720.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_45_899.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_47_292.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_49_433.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_50_336.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_50_951.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_53_524.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_54_502.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_54_706.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_55_753.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_56_042.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_56_670.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_58_395.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_23_59_247.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_00_292.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_00_855.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_01_344.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_01_487.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_02_322.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_03_088.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_03_304.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_03_517.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_04_279.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_04_908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_06_101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_06_816.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_07_380.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_08_013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_11_154.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_12_908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_14_701.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_15_724.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_17_049.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_18_981.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_20_215.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_20_904.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_20_973.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_21_323.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_21_462.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_21_881.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_21_951.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_22_225.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_23_276.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_24_169.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_25_143.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_25_971.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_27_014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_28_135.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_28_205.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_28_837.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_30_714.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_30_853.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_31_203.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_31_407.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_31_476.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_31_546.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_32_667.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_34_464.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_34_534.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_38_471.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_39_225.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_40_193.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_40_263.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_41_302.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_42_060.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_43_153.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_43_981.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_44_474.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_46_211.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_46_773.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_46_913.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_48_438.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_49_403.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/center_2017_04_07_15_24_51_668.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_00_113.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_01_360.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_01_430.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_03_612.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_04_022.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_04_867.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_05_552.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_05_686.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_05_826.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_08_605.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_08_818.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_09_991.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_10_262.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_11_983.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_14_486.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_15_808.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_16_227.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_16_785.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_16_855.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_17_548.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_20_603.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_20_672.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_22_756.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_23_102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_24_912.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_26_722.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_28_177.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_29_279.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_29_625.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_30_180.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_31_921.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_34_550.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_34_620.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_34_824.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_37_396.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_37_466.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_40_102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_41_683.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_42_307.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_42_446.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_43_884.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_44_856.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_45_968.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_46_040.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_47_361.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_47_705.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_48_467.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_49_082.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_49_919.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_49_988.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_50_748.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_52_484.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_53_806.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_54_570.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_55_342.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_55_546.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_56_109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_56_178.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_57_571.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_58_049.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_58_188.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_23_58_677.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_00_022.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_00_089.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_02_673.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_05_191.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_06_382.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_06_526.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_06_671.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_10_245.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_10_804.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_12_129.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_12_410.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_12_557.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_13_391.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_13_461.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_13_665.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_13_805.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_14_767.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_16_006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_16_494.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_17_527.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_21_531.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_21_814.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_22_020.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_22_722.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_23_828.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_24_936.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_25_701.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_26_248.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_30_093.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_31_269.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_33_768.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_33_838.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_35_091.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_35_435.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_35_778.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_36_193.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_36_467.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_39_018.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_39_572.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_39_846.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_40_471.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_40_541.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_41_508.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_44_050.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_45_102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_45_515.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_45_719.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_45_930.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_48_507.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_48_852.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_48_991.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_49_680.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/left_2017_04_07_15_24_50_914.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_00_391.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_01_567.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_01_913.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_02_430.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_03_266.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_03_612.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_04_089.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_04_514.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_05_003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_05_072.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_06_165.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_07_330.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_08_325.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_10_532.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_11_149.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_11_490.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_13_505.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_13_648.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_13_718.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_14_626.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_14_769.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_18_861.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_19_139.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_22_826.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_22_965.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_23_171.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_23_658.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_23_728.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_24_004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_24_073.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_25_540.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_25_957.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_29_279.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_29_964.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_31_082.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_32_547.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_33_868.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_34_140.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_34_344.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_34_414.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_35_739.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_35_878.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_36_224.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_36_497.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_37_186.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_38_225.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_38_853.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_40_102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_40_441.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_41_134.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_42_581.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_43_474.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_44_163.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_44_856.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_45_619.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_46_796.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_47_429.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_50_268.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_51_087.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_51_157.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_52_693.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_54_434.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_54_777.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_54_847.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_55_342.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_55_825.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_55_970.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_56_318.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_57_022.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_58_188.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_23_59_734.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_01_063.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_05_401.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_05_818.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_07_028.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_09_481.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_09_755.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_10_454.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_11_086.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_11_645.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_13_598.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_14_903.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_15_652.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_15_795.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_16_145.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_16_704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_16_773.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_16_843.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_18_701.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_19_463.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_20_077.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_23_135.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_23_828.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_24_373.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_25_075.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_25_421.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_27_505.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_29_397.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_29_817.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_33_838.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_34_323.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_34_812.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_34_881.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_35_229.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_35_301.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_36_193.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_36_467.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_37_426.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_38_608.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_38_677.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_39_912.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_40_052.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_40_122.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_40_541.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_40_811.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_43_498.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_45_311.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_49_061.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_49_680.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_50_090.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_50_364.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/training_data_from_sim/IMG/right_2017_04_07_15_24_50_777.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarND-Behavioral-Cloning-P3/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project4- Advanced Lane Finding/Initial_Analysis_With_Test_Images_Run3.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project4- Advanced Lane Finding/Running_Pipeline_Run3.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project4- Advanced Lane Finding/writeup.md" afterPath="$PROJECT_DIR$/Project4- Advanced Lane Finding/writeup.md" />
+    <list default="true" id="0009f602-ec46-4f2f-a11b-a4e535249b51" name="Default" comment="Added Vehicle Detection project">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/all_detections.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/heatmap_post_thresholding.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/heatmap_prior_thresholding.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/labeled_regions.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/labeled_regions_test_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/labeled_regions_test_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/labeled_regions_test_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/labeled_regions_test_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/labeled_regions_test_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/labeled_regions_test_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/test1_detected.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/test2_detected.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/test3_detected.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/test4_detected.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/test5_detected.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/test6_detected.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/test_hot_windows.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/output_images/test_sliding_windows_grid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/.idea/Project5-VehicleDetection.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/search_and_classify-V2.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/training_classifier-V2.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project5-VehicleDetection/writeup.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -418,8 +93,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -682,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493778928526</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="redoing commit and push">
+      <created>1495207187738</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1495207187738</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -694,19 +376,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.50347406" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.4965259" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31174535" sideWeight="0.4977806" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33699232" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31174535" sideWeight="0.4977806" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33699232" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -723,7 +405,8 @@
     <MESSAGE value="project_3" />
     <MESSAGE value="changes based on feedback" />
     <MESSAGE value="redoing commit and push" />
-    <option name="LAST_COMMIT_MESSAGE" value="redoing commit and push" />
+    <MESSAGE value="Added Vehicle Detection project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Vehicle Detection project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
